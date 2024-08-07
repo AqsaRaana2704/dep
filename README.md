@@ -1,4 +1,4 @@
-Red-Blue Nim Game Description
+Red-Blue Nim Game Description:
 The Red-Blue Nim Game is a variant of the classic Nim game involving two types of marbles: red and blue. The objective of the game is to strategically remove marbles from the board to either win or avoid losing based on the selected game version.
 
 Game Setup
